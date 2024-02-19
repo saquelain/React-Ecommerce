@@ -73,7 +73,7 @@ This React E-commerce App is a showcase of a fully functional online store with 
 ## Project Setup 🚧
 
 1. Clone the repository:
-   git clone https://github.com/ParmodKumar28/E-Commerce-React-App
+   git clone https://github.com/saquelain/React-Ecommerce
 
 2. Install dependencies:
    cd E-COMMERCE REACT APP
